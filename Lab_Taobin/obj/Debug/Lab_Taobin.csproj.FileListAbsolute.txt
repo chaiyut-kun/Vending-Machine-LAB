@@ -1,0 +1,10 @@
+D:\Programming\C#\CS_OOP\Taobin_Machine\Lab_Taobin\Lab_Taobin\bin\Debug\Lab_Taobin.exe.config
+D:\Programming\C#\CS_OOP\Taobin_Machine\Lab_Taobin\Lab_Taobin\bin\Debug\Lab_Taobin.exe
+D:\Programming\C#\CS_OOP\Taobin_Machine\Lab_Taobin\Lab_Taobin\bin\Debug\Lab_Taobin.pdb
+D:\Programming\C#\CS_OOP\Taobin_Machine\Lab_Taobin\Lab_Taobin\obj\Debug\Lab_Taobin.csproj.AssemblyReference.cache
+D:\Programming\C#\CS_OOP\Taobin_Machine\Lab_Taobin\Lab_Taobin\obj\Debug\Lab_Taobin.Form1.resources
+D:\Programming\C#\CS_OOP\Taobin_Machine\Lab_Taobin\Lab_Taobin\obj\Debug\Lab_Taobin.Properties.Resources.resources
+D:\Programming\C#\CS_OOP\Taobin_Machine\Lab_Taobin\Lab_Taobin\obj\Debug\Lab_Taobin.csproj.GenerateResource.cache
+D:\Programming\C#\CS_OOP\Taobin_Machine\Lab_Taobin\Lab_Taobin\obj\Debug\Lab_Taobin.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CS_OOP\Taobin_Machine\Lab_Taobin\Lab_Taobin\obj\Debug\Lab_Taobin.exe
+D:\Programming\C#\CS_OOP\Taobin_Machine\Lab_Taobin\Lab_Taobin\obj\Debug\Lab_Taobin.pdb
