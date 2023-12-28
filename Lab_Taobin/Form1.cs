@@ -57,7 +57,7 @@ namespace Lab_Taobin
         private void Mocha_button_Click(object sender, EventArgs e)
         {
             //Mocca
-            makeable = Tao_Loi.make_Mocca();
+            makeable = Tao_Loi.make_Mocha();
             Manage_Menu(makeable ,"มอคค่า", Properties.Resources.Mocha);
 
             Show_material();

@@ -75,7 +75,7 @@ namespace Lab_Taobin
             }
         }
 
-        public bool make_Mocca()
+        public bool make_Mocha()
         {
             if (water >= 300 && coffee >= 20 && chocolate >= 10 )
             {
