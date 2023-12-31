@@ -215,6 +215,12 @@ namespace Lab_Taobin
         {
 
         }
+
+        private void Please_label_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void choco_label_Click(object sender, EventArgs e)
         {
 

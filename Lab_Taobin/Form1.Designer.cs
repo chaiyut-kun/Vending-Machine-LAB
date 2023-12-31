@@ -212,9 +212,10 @@
             this.Please_label.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Please_label.Location = new System.Drawing.Point(596, 151);
             this.Please_label.Name = "Please_label";
-            this.Please_label.Size = new System.Drawing.Size(210, 20);
+            this.Please_label.Size = new System.Drawing.Size(242, 20);
             this.Please_label.TabIndex = 3;
-            this.Please_label.Text = "เติมวัตถุดิบ (1 หน่วย ต่อ กรัม)";
+            this.Please_label.Text = "เติมวัตถุดิบ (1 หน่วย ต่อ 100 กรัม)";
+            this.Please_label.Click += new System.EventHandler(this.Please_label_Click);
             // 
             // Submit_button
             // 
